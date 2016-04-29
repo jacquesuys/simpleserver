@@ -1,0 +1,15 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "a simple HTTP server for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "node",
+    "HTTP"
+  ],
+  "author": "Jacques Uys",
+  "license": "MIT"
+}
